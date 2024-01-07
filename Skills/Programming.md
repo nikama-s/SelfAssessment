@@ -19,7 +19,7 @@
   - primitive types: 🎓 known
   - reference types: 👂 heard 
   - flag: 👂 heard
-  - lexical scope
+  - lexical scope: 👂 heard 
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used 
@@ -46,7 +46,7 @@
   - compose
   - pipe
   - memoize
-  - wrapper
+  - wrapper: 👂 heard 
   - functor
   - monad
   - monoid
@@ -76,7 +76,7 @@
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing: 👂 heard
 - Process & style
   - compiler
   - transpiler
@@ -99,8 +99,8 @@
   - dead code: 👂 heard
   - unreachable code: 👂 heard
   - duplicate code: 👂 heard
-  - exception
-  - return early
+  - exception: 🖐️ used
+  - return early:  👂 heard 
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used
