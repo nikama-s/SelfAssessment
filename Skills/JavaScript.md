@@ -28,18 +28,18 @@
   - prototype: 👂 heard
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators
-  - ternary operator
+  - bitwise operators: 👂 heard
+  - ternary operator: 👂 heard
   - void: 🎓 known
   - yield
   - await: 👂 heard
   - template literal
   - strict mode
   - delete: 🎓 known
-  - in: 👂 heard
-  - super
+  - in: 🎓 known
+  - super: 👂 heard
   - Symbol: 👂 heard
-  - Reflect
+  - Reflect: 👂 heard
 - Statements
   - if: 🙋 explained 
   - while: 🙋 explained 
@@ -47,7 +47,7 @@
   - for: 🙋 explained 
   - for..in: 🎓 known 
   - for..of: 🙋 explained 
-  - for await
+  - for await: 👂 heard
   - throw: 🎓 known
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -60,39 +60,13 @@
   - new Error: 👂 heard
   - with: 👂 heard
 - Functions
-  - function declaration: 👂 heard
-  - function expression: 👂 heard
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
   - return: 🖐️ used
-  - default parameters: 👂 heard
-  - functional object: 👂 heard
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - if: 🎓 known
-  - while: 🎓 known
-  - do..while
-  - for: 🎓 known
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break: 👂 heard 
-  - continue: 👂 heard 
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
-- Functions
-  - function declaration
-  - function expression
-  - return: 👂 heard 
-  - default parameters
-  - functional object
-- Data structures
-  - Array: 👂 heard 
   - mixin
   - extend: 👂 heard
   - typed arrays: 👂 heard
