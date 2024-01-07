@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 👂 heard
+  - async function: 👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
+  - typeof: 🖐️ used
+  - destructuring: 👂 heard
   - generator
-  - iterator
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -25,62 +25,62 @@
   - window
   - getters and setters
   - __proto__
-  - prototype
+  - prototype: 👂 heard
   - equality operators
   - logical operators
   - bitwise operators
   - ternary operator
   - void
   - yield
-  - await
+  - await: 👂 heard
   - template literal
   - strict mode
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🙋 explained 
+  - while: 🙋 explained 
+  - do..while: 🙋 explained 
+  - for: 🙋 explained 
+  - for..in: 🎓 known 
+  - for..of: 🙋 explained 
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - throw: 🎓 known
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
+  - export: 👂 heard
+  - label: 👂 heard
+  - try..catch: 🖐️ used
+  - switch: 🎓 known
+  - class: 🖐️ used
+  - new Error: 👂 heard
   - with
 - Functions
   - function declaration
-  - function expression
-  - return
+  - function expression: 👂 heard
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - extend: 👂 heard
+  - typed arrays: 👂 heard
+  - Map: 👂 heard
+  - Set: 👂 heard
+  - undefined: 🎓 known
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🎓 known
+  - BigInt: 🎓 known
 - Infrastructure
   - V8
   - Node.js
