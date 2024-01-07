@@ -5,10 +5,10 @@
   - this: 🖐️ used
   - arrow function: 👂 heard
   - async function: 👂 heard
-  - call
-  - bind
-  - apply
-  - instanceof
+  - call: 👂 heard
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof: 🖐️ used
@@ -26,17 +26,17 @@
   - getters and setters
   - __proto__
   - prototype: 👂 heard
-  - equality operators
-  - logical operators
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
   - bitwise operators
   - ternary operator
-  - void
+  - void: 🎓 known
   - yield
   - await: 👂 heard
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete: 🎓 known
+  - in: 👂 heard
   - super
   - Symbol: 👂 heard
   - Reflect
@@ -58,13 +58,13 @@
   - switch: 🎓 known
   - class: 🖐️ used
   - new Error: 👂 heard
-  - with
+  - with: 👂 heard
 - Functions
-  - function declaration
+  - function declaration: 👂 heard
   - function expression: 👂 heard
   - return: 🖐️ used
-  - default parameters
-  - functional object
+  - default parameters: 👂 heard
+  - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - mixin
@@ -78,7 +78,7 @@
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date: 🎓 known
   - BigInt: 🎓 known
 - Infrastructure
