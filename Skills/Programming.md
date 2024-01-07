@@ -26,6 +26,31 @@
   - assignment: 🖐️ used  
   - regular expression: 🎓 known 
   - interface: 👂 heard
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 👂 heard
+  - literal: 🎓 known
+  - expression: 👂 heard
+  - heap
+  - function: 👂 heard
+  - procedure
+  - method
+  - class: 👂 heard 
+  - prototype
+  - event: 👂 heard
+  - type: 🎓 known
+  - primitive types
+  - reference types
+  - flag
+  - lexical scope
+  - code block
+  - conditions: 👂 heard 
+  - loops: 👂 heard 
+  - assignment
+  - regular expression
+  - interface: 👂 heard 
   - contract
   - module: 👂 heard
   - call stack
@@ -60,6 +85,13 @@
   - instance
   - object: 🖐️ used
   - class: 🖐️ used
+  - array: 👂 heard 
+  - structure
+  - record
+  - enum
+  - instance
+  - object
+  - class: 👂 heard 
   - collection
   - set
   - hash table
@@ -104,3 +136,23 @@
   - unittest
   - git: 🖐️ used
   - github: 🖐️ used
+  - refactoring: 👂 heard 
+  - code review: 👂 heard 
+  - antipatterns
+  - paradigm
+  - algorithm: 👂 heard 
+  - magic numbers
+  - hardcode: 👂 heard 
+  - complexity
+  - decomposition
+  - spaghetti
+  - silver bullet
+  - not invented here
+  - dead code
+  - unreachable code
+  - duplicate code: 👂 heard 
+  - exception: 👂 heard 
+  - return early
+  - unittest
+  - git
+  - github: 👂 heard 

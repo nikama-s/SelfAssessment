@@ -67,6 +67,32 @@
   - functional object: 👂 heard
 - Data structures
   - Array: 🖐️ used
+  - if: 🎓 known
+  - while: 🎓 known
+  - do..while
+  - for: 🎓 known
+  - for..in
+  - for..of
+  - for await
+  - throw
+  - break: 👂 heard 
+  - continue: 👂 heard 
+  - import
+  - export
+  - label
+  - try..catch
+  - switch
+  - class
+  - new Error
+  - with
+- Functions
+  - function declaration
+  - function expression
+  - return: 👂 heard 
+  - default parameters
+  - functional object
+- Data structures
+  - Array: 👂 heard 
   - mixin
   - extend: 👂 heard
   - typed arrays: 👂 heard
