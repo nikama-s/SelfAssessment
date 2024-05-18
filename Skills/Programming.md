@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known 
+  - Syntax: 🎓 known 
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm: 👂 heard 
+  - Programm: 🖐️ used 
+  - Programming paradigm: 👂 heard 
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
+  - Module: 👂 heard 
+  - Library: 👂 heard 
   - Package
-  - Component
+  - Component: 👂 heard 
   - Framework
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering: 👂 heard 
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🙋 explained
+  - Identifier: 🖐️ used
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Function: 🖐️ used
+  - Procedure: 👂 heard 
+  - Method: 👂 heard 
+  - Class: 🖐️ used
+  - Prototype: 👂 heard 
+  - Event: 👂 heard
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface
+  - Interface: 👂 heard
   - Namespaces
-  - Call stack
+  - Call stack: 👂 heard
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case: 👂 heard
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 👂 heard
+  - Reference types: 👂 heard
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -157,29 +157,29 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 👂 heard
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 👂 heard
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti: 👂 heard
+  - Silver bullet: 👂 heard
   - Not invented here
   - Dead code
   - Unreachable code
