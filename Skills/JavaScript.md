@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if`: 🎓 known
+  - `while`: 🎓 known
   - `do..while`
-  - `for`
+  - `for`: 🎓 known
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break`: 👂 heard 
+  - `continue`: 👂 heard 
   - `import`
   - `export`
   - `label`
@@ -88,9 +88,9 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return`: 👂 heard 
 - Data structures
-  - `Array`
+  - `Array`: 👂 heard 
   - `Map`
   - `Set`
   - `WeakMap`
