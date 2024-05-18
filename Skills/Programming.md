@@ -13,11 +13,11 @@
   - Programming paradigm: 🎓 known
   - Programming language: 🙋 explained
   - Contract
-  - Module: 👂 heard
-  - Library: 👂 heard
+  - Module: 🎓 known
+  - Library: 🖐️ used
   - Package
-  - Component: 👂 heard
-  - Framework: 👂 heard
+  - Component: 🎓 known
+  - Framework: 🎓 known
   - Platform: 👂 heard
   - Source code: 👂 heard
   - Object code
