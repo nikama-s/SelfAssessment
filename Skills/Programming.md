@@ -32,29 +32,29 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 👂 heard
+  - Literal: 🎓 known
+  - Expression: 👂 heard
   - Heap
-  - Function
+  - Function: 👂 heard
   - Procedure
   - Method
-  - Class
+  - Class: 👂 heard 
   - Prototype
-  - Event
-  - Type
+  - Event: 👂 heard
+  - Type: 🎓 known
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions: 👂 heard
+  - Loops: 👂 heard 
   - Assignment
   - Regular expression
-  - Interface
+  - Interface: 👂 heard 
   - Namespaces
   - Call stack
   - Naming conventions
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 👂 heard 
   - Structure
   - Record
   - Enum
