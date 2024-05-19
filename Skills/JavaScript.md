@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 👂 heard
-  - `Number`: 👂 heard
-  - `BigInt`: 👂 heard
-  - `String`: 🖐️ used
-  - `Symbol`: 🖐️ used
-  - `Infinity`: 👂 heard
-  - `NaN`: 👂 heard
-  - `undefined`: 👂 heard
-  - `null`: 👂 heard
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🎓 known
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`
-  - `...spread`
+  - `instanceof`: 👂 heard
+  - `...spread`: 👂 heard
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators: 🎓 known
+  - `typeof`: 🎓 known
+  - Destructuring: 🖐️ used
+  - Generators: 🎓 known
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
+  - `global`: 👂 heard
+  - `globalThis`: 👂 heard
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`: 👂 heard
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
-  - Logical Assignment: 🖐️ used
-  - Bitwise operators: 👂 heard
+  - `prototype`: 🎓 known
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🖐️ used
   - Ternary operator
-  - `void`: 👂 heard
-  - `yield`
+  - `void`: 🖐️ used
+  - `yield`: 👂 heard
   - `await`: 👂 heard
   - Template literal
-  - Strict mode
+  - Strict mode: 👂 heard
   - Hoisting
   - `delete`: 🎓 known
   - `in`: 🎓 known
-  - `super`
+  - `super`: 🎓 known
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields: 👂 heard
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 👂 heard
 - Statements
-  - `if`: 🙋 explained 
-  - `while`: 🙋 explained 
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
   - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🎓 known 
-  - `for..of`: 🖐️ used
-  - `for await`
-  - `throw`
-  - `break`: 🎓 known 
-  - `continue`: 🎓 known 
-  - `import`: 👂 heard
-  - `export`: 👂 heard
+  - `for`: 🙋 explained
+  - `for..in`: 🖐️ used
+  - `for..of`: 🙋 explained
+  - `for await`: 🖐️ used
+  - `throw`: 🎓 known
+  - `break`: 🙋 explained
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
   - `label`
-  - `try..catch`
-  - `switch`: 👂 heard
-  - `class`: 🎓 known
-  - `extends`
-  - `with`
-  - `new`: 🎓 known
+  - `try..catch`: 🎓 known
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`: 🖐️ used
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🖐️ used
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 👂 heard
-  - `Set`
+  - `Array`: 🙋 explained
+  - `Map`: 🎓 known
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays: 👂 heard
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `RegExp`: 🎓 known
+  - `Date`: 👂 heard
+  - `Math`: 🎓 known
   - `Reflect`
-  - `Error`: 👂 heard
+  - `Error`: 🎓 known
   - `Atomics`
   - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise`: 👂 heard
+  - `console`: 🖐️ used
+  - Timers: 👂 heard
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 👂 heard
+  - npm: 👂 heard
+  - prettier: 👂 heard
   - MDN
   - TC39

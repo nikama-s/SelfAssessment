@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 👂 heard
+  - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,23 +27,23 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
   - Static method
-  - Method
+  - Method: 👂 heard
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance: 🎓 known
+  - Parent class: 🖐️ used
   - Polymorphism
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form: 👂 heard
   - Instance
   - Introspection
   - Reflection
