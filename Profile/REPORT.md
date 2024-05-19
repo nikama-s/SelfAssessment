@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-239&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-239&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-239&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/nikama-s/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-240&nbsp;/&nbsp;419&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -31,7 +31,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `7` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `3` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `2` | `20` |
@@ -96,7 +96,7 @@
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `44` of `72` skills, `28` to be upgraded, and `16` above needed
+Total: you have `44` of `72` skills, `28` to be upgraded, and `20` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -146,7 +146,7 @@ Total: you have `44` of `72` skills, `28` to be upgraded, and `16` above needed
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Error` | 🎓 known | ⟶  | 🖐️ used |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `JSON` | 🤷 unknown | ⟶  | 🖐️ used |
+| `JSON` | 👂 heard | ⟶  | 🖐️ used |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | `Promise` | 👂 heard | ⟶  | 🖐️ used |
@@ -155,7 +155,7 @@ Total: you have `44` of `72` skills, `28` to be upgraded, and `16` above needed
 | npm | 👂 heard | ⟶  | 🎓 known |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `44` of `98` skills, `54` to be upgraded, and `11` above needed
+Total: you have `44` of `98` skills, `54` to be upgraded, and `17` above needed
 
 ## [Async](/Skills/Async.md)
 
