@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`: 🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
