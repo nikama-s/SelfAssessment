@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🙋 explained 
-  - `while`: 🙋 explained 
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
-  - `for..in`: 🎓 known 
+  - `for..in`: 🎓 known
   - `for..of`: 🖐️ used
   - `for await`
   - `throw`
-  - `break`: 🎓 known 
-  - `continue`: 🎓 known 
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
   - `import`: 👂 heard
   - `export`: 👂 heard
   - `label`

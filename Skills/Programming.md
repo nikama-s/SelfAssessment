@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🎓 known 
-  - Syntax: 🎓 known 
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
-  - Paradigm: 👂 heard 
-  - Programm: 🖐️ used 
-  - Programming paradigm: 👂 heard 
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
   - Programming language: 🖐️ used
   - Contract
-  - Module: 👂 heard 
-  - Library: 👂 heard 
+  - Module: 👂 heard
+  - Library: 👂 heard
   - Package
-  - Component: 👂 heard 
+  - Component: 👂 heard
   - Framework
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering: 👂 heard 
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -41,10 +41,10 @@
   - Expression: 🖐️ used
   - Heap
   - Function: 🖐️ used
-  - Procedure: 👂 heard 
-  - Method: 👂 heard 
+  - Procedure: 👂 heard
+  - Method: 👂 heard
   - Class: 🖐️ used
-  - Prototype: 👂 heard 
+  - Prototype: 👂 heard
   - Event: 👂 heard
   - Type: 🖐️ used
   - Flag
